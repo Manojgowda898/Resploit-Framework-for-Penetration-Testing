@@ -1,0 +1,5 @@
+## Local config - do not commit
+config/config.inc.php
+config/config.inc.php.bak
+config/*.local.php
+*.env
