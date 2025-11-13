@@ -72,30 +72,30 @@ Password: password
 ---
 
 ## 📂 Folder Structure
+```text
 RFPT/
-├── .github/                     # GitHub-related configurations
-├── config/                      # Database and environment settings
-├── database/                    # Database schema and setup scripts
-├── dvwa/                        # Core backend logic and modules
-├── external/                    # External scripts and assets
-├── hackable/                    # Web application test files
-├── tests/                       # Security test modules
-├── vulnerabilities/             # Vulnerability simulation files
-├── about.php                    # About the project
-├── index.php                    # Main home page
-├── instructions.php             # Usage instructions
-├── login.php                    # User authentication page
-├── logout.php                   # Logout script
-├── php.ini                      # PHP configuration
-├── phpinfo.php                  # PHP environment info
-├── README.md                    # Project documentation
-├── robots.txt                   # Search engine directives
-├── SECURITY.md                  # Security notes
-├── security.php                 # Security level settings
-├── security.txt                 # Security metadata
-└── setup.php                    # Application setup and initialization
-
-
+├── .github/ # GitHub-related configurations
+├── config/ # Database and environment settings
+├── database/ # Database schema and setup scripts
+├── dvwa/ # Core backend logic and modules
+├── external/ # External scripts and assets
+├── hackable/ # Web application test files
+├── tests/ # Security test modules
+├── vulnerabilities/ # Vulnerability simulation files
+├── about.php # About the project
+├── index.php # Main home page
+├── instructions.php # Usage instructions
+├── login.php # User authentication page
+├── logout.php # Logout script
+├── php.ini # PHP configuration
+├── phpinfo.php # PHP environment info
+├── README.md # Project documentation
+├── robots.txt # Search engine directives
+├── SECURITY.md # Security notes
+├── security.php # Security level settings
+├── security.txt # Security metadata
+└── setup.php # Application setup and initialization
+```
 ---
 
 ## 🧠 Learning Outcomes
